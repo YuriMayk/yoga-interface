@@ -92,12 +92,13 @@ strong {
     color: #000000;
 }
 
+.dots-image {
+    margin: 0 16px 0 16px;
+}
+
 .buttons-div {
     margin: 18px auto 80px auto;
     text-align: center;
         
 }
 
-.dots-image {
-    margin: 0 16px 0 16px;
-}
