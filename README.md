@@ -18,15 +18,15 @@ The project is still under development. Below are the current definitions of per
 
 ## 🤝 Colaboradores
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people for this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <a href="https://www.linkedin.com/in/yuri-m-88a426a3/" target="_blank"><img src="./assets/1634569924664.jpg" width="100px;" alt="Foto do Yuri Medeiros no GitHub"/></a><br>
+        <a href="https://www.linkedin.com/in/yurimayk/" target="_blank"><img src="./assets/1634569924664.jpg" width="100px;" alt="Foto do Yuri Medeiros no GitHub"/></a><br>
         <sub>
-          <a href="https://www.linkedin.com/in/yuri-m-88a426a3/" target="_blank"><b>Yuri Medeiros</b></a>
+          <a href="https://www.linkedin.com/in/yurimayk/" target="_blank"><b>Yuri Medeiros</b></a>
         </sub>
       </a>
     </td>
